@@ -1,0 +1,50 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="applog" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Astar_10_19_31_0:0:14&lt;/string&gt;
+  &lt;string&gt;Astar_16_460_709_0:0:14&lt;/string&gt;
+  &lt;string&gt;Astar_1_1_2_0:0:14&lt;/string&gt;
+  &lt;string&gt;BFS_1_1_2_0:0:10&lt;/string&gt;
+  &lt;string&gt;BFS_2_2_5_0:0:10&lt;/string&gt;
+  &lt;string&gt;Astar_2_2_5_0:0:13&lt;/string&gt;
+  &lt;string&gt;BFS_3_9_17_0:0:10&lt;/string&gt;
+  &lt;string&gt;Astar_3_3_7_0:0:13&lt;/string&gt;
+  &lt;string&gt;BFS_4_35_67_0:0:11&lt;/string&gt;
+  &lt;string&gt;Astar_4_4_8_0:0:14&lt;/string&gt;
+  &lt;string&gt;BFS_5_54_99_0:0:11&lt;/string&gt;
+  &lt;string&gt;Astar_5_5_10_0:0:13&lt;/string&gt;
+  &lt;string&gt;BFS_6_123_227_0:0:14&lt;/string&gt;
+  &lt;string&gt;Astar_6_6_11_0:0:13&lt;/string&gt;
+  &lt;string&gt;BFS_7_649_1225_0:0:46&lt;/string&gt;
+  &lt;string&gt;Astar_7_7_13_0:0:13&lt;/string&gt;
+  &lt;string&gt;BFS_8_958_1769_0:0:33&lt;/string&gt;
+  &lt;string&gt;Astar_8_12_22_0:0:14&lt;/string&gt;
+  &lt;string&gt;BFS_8_2931_5571_0:2:24&lt;/string&gt;
+  &lt;string&gt;Astar_8_8_14_0:0:13&lt;/string&gt;
+  &lt;string&gt;BFS_8_1450_2609_0:0:23&lt;/string&gt;
+  &lt;string&gt;Astar_8_9_15_0:0:13&lt;/string&gt;
+  &lt;string&gt;BFS_9_4102_7619_0:4:57&lt;/string&gt;
+  &lt;string&gt;Astar_9_10_17_0:0:14&lt;/string&gt;
+  &lt;string&gt;BFS_10_10539_19907_0:27:9&lt;/string&gt;
+  &lt;string&gt;BFS_11_38918_73155_8:57:57&lt;/string&gt;
+  &lt;string&gt;Astar_11_173_290_0:0:42&lt;/string&gt;
+  &lt;string&gt;Astar_11_173_290_0:0:41&lt;/string&gt;
+  &lt;string&gt;Astar_12_540_982_0:0:58&lt;/string&gt;
+  &lt;string&gt;Astar_13_2785_5296_0:5:19&lt;/string&gt;
+  &lt;string&gt;Astar_13_2785_5296_0:5:24&lt;/string&gt;
+  &lt;string&gt;Astar_14_5614_10480_0:23:44&lt;/string&gt;
+  &lt;string&gt;Astar_13_39_67_0:0:15&lt;/string&gt;
+  &lt;string&gt;Astar_15_1460_2406_0:1:19&lt;/string&gt;
+  &lt;string&gt;Astar_15_7660_14238_1:37:47&lt;/string&gt;
+  &lt;string&gt;BFS_12_90411_171459_42:42:56&lt;/string&gt;
+  &lt;string&gt;Astar_12_540_982_0:0:18&lt;/string&gt;
+  &lt;string&gt;Astar_12_540_982_0:0:35&lt;/string&gt;
+  &lt;string&gt;Astar_12_593_968_0:0:42&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
